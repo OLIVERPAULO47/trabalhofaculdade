@@ -1,5 +1,6 @@
 <application>
   <component name="NotificationConfiguration">
+    <notification groupId="Plugins updates" displayType="STICKY_BALLOON" />
     <notification groupId="R Language Support" displayType="NONE" />
   </component>
 </application>
