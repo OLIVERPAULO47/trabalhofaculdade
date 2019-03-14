@@ -1,5 +1,6 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="allowDataCollection" value="true" />
     <option name="isWizardShown" value="true" />
     <option name="userId" value="-177865b:16964e82843:-8000" />
     <option name="version" value="3.5.0.1" />
